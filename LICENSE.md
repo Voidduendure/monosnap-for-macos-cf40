@@ -1,4 +1,4 @@
-
+custom Helper for Monosnap for macOS - clipboard-manager and cloud-sync offers the most advanced Monosnap for macOS helper, with clipboard-manager and cloud-sync. Ideal for macOS
 
 
 
